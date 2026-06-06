@@ -108,4 +108,4 @@ project1-dhcp/
 Self-learning cybersecurity through Cisco's curriculum.  
 Currently building hands-on lab projects to strengthen my practical skills.
 
-📌 Connect with me on [LinkedIn](#)
+📌 Connect with me on [LinkedIn](#)https://www.linkedin.com/in/jalal-shah-98a03a265/
